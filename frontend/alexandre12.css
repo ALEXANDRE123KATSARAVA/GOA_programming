@@ -1,0 +1,27 @@
+html
+ {
+    background-image: url(img/GOA\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.alex 
+{
+ text-align: center;
+ color: red;
+}
+.alex2 {
+    color: blue;
+    text-align: center;
+}
+.alex3
+{
+color:red;
+text-align: center;
+}
+.alex4
+{
+    color: blue;
+    text-align: center;
+}
